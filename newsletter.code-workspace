@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../newsletter"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../html-email"
+	},
+	{
+		"path": "../Responsive-gif-email"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "landing-page"
+  }
+}
